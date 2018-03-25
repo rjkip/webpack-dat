@@ -21,3 +21,5 @@ webpackDev(
 ```
 
 For a full, working example, [look no further](./example).
+
+![image](https://user-images.githubusercontent.com/1734555/37879164-56008eaa-3074-11e8-9664-afa67c75c7ce.png)
