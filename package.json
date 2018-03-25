@@ -1,4 +1,10 @@
 {
+  "name": "webpack-dat",
+  "version": "0.1.0",
+  "description": "Serves a live-reloading Webpack configuration plus static files over Dat",
+  "keywords": ["dat", "beaker", "beakerbrowser", "webpack"],
+  "license": "ISC",
+  "main": "index.js",
   "devDependencies": {
     "webpack": "*"
   },
