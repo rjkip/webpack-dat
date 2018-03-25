@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "webpack": "*"
+  },
+  "peerDependencies": {
+    "webpack": "*"
+  },
+  "dependencies": {
+    "dat-node": "^3.5.8",
+    "random-access-memory": "^2.4.0"
+  }
+}
