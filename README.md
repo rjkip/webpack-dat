@@ -2,6 +2,8 @@
 
 Serves a Webpack configuration plus static files over P2P [Dat](https://datproject.org/). [Beaker Browser](https://beakerbrowser.com/) supports live reloading out of the box!
 
+    npm install --save-dev webpack-dat
+
 ## Example usage
 
 ```js
